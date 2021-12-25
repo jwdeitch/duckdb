@@ -31,7 +31,7 @@ For CSV files and Parquet files, data import is as simple as referencing the fil
 SELECT * FROM 'myfile.csv';
 SELECT * FROM 'myfile.parquet';
 ```
-
+d
 Refer to our [Data Import](https://duckdb.org/docs/data/overview) section for more information.
 
 ## SQL Reference
